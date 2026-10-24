@@ -10,7 +10,11 @@ You are writing an architectural explanation for a senior engineer. Multiple exp
 
 > {QUESTION}
 
-## Explorer Findings
+## Explorer
+
+{EXPLORER_FINDINGS_ALL}
+
+## indings
 
 {EXPLORER_FINDINGS_ALL}
 

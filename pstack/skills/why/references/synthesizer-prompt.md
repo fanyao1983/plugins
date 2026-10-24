@@ -16,7 +16,15 @@ You are answering a "why" question about a piece of code by synthesizing finding
 
 **Key symbols:** {SYMBOLS}
 
-## Investigator Findings
+## Investigator
+
+{ALL_INVESTIGATOR_FINDINGS}
+
+## in
+
+{SKIPPED_SOURCES_WITH_REASONS}
+
+## ngs
 
 {ALL_INVESTIGATOR_FINDINGS}
 
